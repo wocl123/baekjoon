@@ -6,4 +6,4 @@ while True:
     if number == number[::-1]:
         print('yes')
     else:
-        print('no')
+        print('no') 
